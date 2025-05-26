@@ -36,6 +36,7 @@ INSERT INTO species (common_name, scientific_name, discovery_date, conservation_
  ('Mountain Gorilla', 'Gorilla beringei beringei', '1903-01-01', 'Critically Endangered');
 
 
+
 SELECT * FROM species
 
 CREATE Table sightings (
